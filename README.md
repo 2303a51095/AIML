@@ -14,7 +14,7 @@ ARTIFICIAL INTELLIGENCE LAB INSTRUCTION SHEETS
 
 #ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING LAB JUPITER NOTE BOOKS
 
-1.[LAB.01](): Introduction to python libraries- Numpy
+1.[LAB.01](https://github.com/2303a51095/AIML/blob/main/AIML_LAB_01.ipynb): Introduction to python libraries- Numpy
 2.[LAB.02](): Introduction to python libraries- Numpy
 3.[LAB.03](): Introduction to python libraries- Numpy
 4.[LAB.04](): Introduction to python libraries- Numpy
