@@ -38,7 +38,7 @@ ARTIFICIAL INTELLIGENCE LAB INSTRUCTION SHEETS
 
 6.[LAB.06](https://github.com/2303a51095/AIML/blob/main/LAB_06.AIML.ipynb): Introduction to python libraries- Numpy
 
-7.[LAB.07](): Introduction to python libraries- Numpy
+7.[LAB.07](https://github.com/2303a51095/AIML/blob/main/Lab-7_AIML.ipynb): Introduction to python libraries- Numpy
 
 8.[LAB.08](): Introduction to python libraries- Numpy
 
