@@ -22,7 +22,7 @@ ARTIFICIAL INTELLIGENCE LAB INSTRUCTION SHEETS
 
 9.[LAB.09](https://github.com/2303a51095/AIML/blob/main/AIML_A9.pdf): Introduction to python libraries- Numpy
 
-10.[LAB.10](): Introduction to python libraries- Numpy
+10.[LAB.10](https://github.com/2303a51095/AIML/blob/main/AIML_A10.pdf): Introduction to python libraries- Numpy
 
 #ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING LAB JUPITER NOTE BOOKS
 
